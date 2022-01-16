@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mattkim-landing-react-only/static/css/main.518ce94c.chunk.css",
+    "main.js": "/mattkim-landing-react-only/static/js/main.9891ff9b.chunk.js",
+    "main.js.map": "/mattkim-landing-react-only/static/js/main.9891ff9b.chunk.js.map",
+    "runtime-main.js": "/mattkim-landing-react-only/static/js/runtime-main.1361fd75.js",
+    "runtime-main.js.map": "/mattkim-landing-react-only/static/js/runtime-main.1361fd75.js.map",
+    "static/js/2.6f6585cc.chunk.js": "/mattkim-landing-react-only/static/js/2.6f6585cc.chunk.js",
+    "static/js/2.6f6585cc.chunk.js.map": "/mattkim-landing-react-only/static/js/2.6f6585cc.chunk.js.map",
+    "static/js/3.0eecabee.chunk.js": "/mattkim-landing-react-only/static/js/3.0eecabee.chunk.js",
+    "static/js/3.0eecabee.chunk.js.map": "/mattkim-landing-react-only/static/js/3.0eecabee.chunk.js.map",
+    "index.html": "/mattkim-landing-react-only/index.html",
+    "static/css/main.518ce94c.chunk.css.map": "/mattkim-landing-react-only/static/css/main.518ce94c.chunk.css.map",
+    "static/js/2.6f6585cc.chunk.js.LICENSE.txt": "/mattkim-landing-react-only/static/js/2.6f6585cc.chunk.js.LICENSE.txt",
+    "static/media/keyvisual.3cba36d7.jpg": "/mattkim-landing-react-only/static/media/keyvisual.3cba36d7.jpg",
+    "static/media/profile.33dcd80d.jpg": "/mattkim-landing-react-only/static/media/profile.33dcd80d.jpg",
+    "static/media/sticker.468db504.png": "/mattkim-landing-react-only/static/media/sticker.468db504.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1361fd75.js",
+    "static/js/2.6f6585cc.chunk.js",
+    "static/css/main.518ce94c.chunk.css",
+    "static/js/main.9891ff9b.chunk.js"
+  ]
+}
